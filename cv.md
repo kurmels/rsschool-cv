@@ -1,19 +1,23 @@
 #***Sergey Kurmel***
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-![mountains](/img/mountan.png "Пейзаж с горами")
-
+**********************************
 Mobile: +375297604056
+
 Mail: kurmels@gmail.com
+
 LinkedIn: sergey-kurmel-ba396659
+
 Skype: kurmel_s 
+
 Discord: Sergey Kurmel
 **********************************
 
 ##***Summary***
+**********************************
 I am currently studying Javascript diligently. My goal is to gain knowledge and skills that will be enough for employment in the company. I want to learn everything new and interesting.
 **********************************
 
 ##***SKILLS***
+**********************************
 Java Core 
 HTML, CSS, JavaScript
 Git, GitHub
@@ -24,6 +28,7 @@ Knowledge of Clean Code Experience with software development methodologies
 ***********************************
 
 ##***Code examples***
+**********************************
 '''
 Function GetUserDocInternetAddress (username As String) As String
 	Dim books As Variant
@@ -36,7 +41,7 @@ Function GetUserDocInternetAddress (username As String) As String
 		If ( dbNames.IsPublicAddressBook ) And ( Not done )  Then			
 			done = True
 			Call dbNames.Open( "", "" )
-			'Print "Используем  names.nsf на сервере "+dbNames.Server
+			'Print "Г€Г±ГЇГ®Г«ГјГ§ГіГҐГ¬  names.nsf Г­Г  Г±ГҐГ°ГўГҐГ°ГҐ "+dbNames.Server
 			Set viewNames = dbNames.GetView("($VIMPeople)")	
 			Set GetUserDoc = viewNames.GetDocumentByKey(username)
 			If Not GetUserDoc Is Nothing Then
@@ -49,17 +54,20 @@ End Function
 **********************************
 
 ##***Experience***
+**********************************
 Designing, developing, implementing, integrating and supporting custom developed on the Lotus platform.
 **********************************
 
 ##***EDUCATION***
+**********************************
 BELARUSIAN STATE UNIVERSITY OF INFORMATICS 
 AND  RADIOELECTRONICS 
-Electronic and optical hardware engineering 2003–2008
+Electronic and optical hardware engineering 2003вЂ“2008
 Faculty of Computer-Aided Design
 **********************************
 
 ##***English***
+**********************************
 Knowledge of English at the Intermediate level.
 **********************************
 
