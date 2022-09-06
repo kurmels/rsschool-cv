@@ -1,5 +1,6 @@
 ***Sergey Kurmel***
-**********************************
+==================================
+
 Mobile: +375297604056
 
 Mail: kurmels@gmail.com
@@ -9,17 +10,21 @@ LinkedIn: sergey-kurmel-ba396659
 Skype: kurmel_s 
 
 Discord: Sergey Kurmel
-==================================
+
+**********************************
 
 ***Summary***
-**********************************
+==================================
+
 I am currently studying Javascript diligently. 
 My goal is to gain knowledge and skills that will be enough for employment in the company. 
 I want to learn everything new and interesting.
-==================================
+
+**********************************
 
 ***SKILLS***
-**********************************
+==================================
+
 Java Core 
 
 HTML, CSS, JavaScript
@@ -33,12 +38,12 @@ XML
 Strong knowledge of Object-Oriented principles Good understanding of design patterns and Agile methodologies  
 
 Knowledge of Clean Code Experience with software development methodologies
-==================================
+**********************************
 
 ***Code examples***
-**********************************
-'''
+==================================
 
+'''
 Function GetUserDocInternetAddress (username As String) As String
 
 	Dim books As Variant
@@ -80,25 +85,25 @@ Function GetUserDocInternetAddress (username As String) As String
 End Function
 
 '''
-==================================
+**********************************
 
 ***Experience***
-**********************************
-Designing, developing, implementing, integrating and supporting custom developed on the Lotus platform.
 ==================================
+Designing, developing, implementing, integrating and supporting custom developed on the Lotus platform.
+**********************************
 
 ***EDUCATION***
-**********************************
+==================================
 BELARUSIAN STATE UNIVERSITY OF INFORMATICS 
 AND  RADIOELECTRONICS 
 
 Electronic and optical hardware engineering 2003–2008
 
 Faculty of Computer-Aided Design
-==================================
+**********************************
 
 ***English***
-**********************************
-Knowledge of English at the Intermediate level.
 ==================================
+Knowledge of English at the Intermediate level.
+**********************************
 
