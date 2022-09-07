@@ -66,8 +66,6 @@ Function GetUserDocInternetAddress (username As String) As String
 			
 			Call dbNames.Open( "", "" )
 			
-			'Print "Èñïîëüçóåì  names.nsf íà ñåðâåðå "+dbNames.Server
-			
 			Set viewNames = dbNames.GetView("($VIMPeople)")	
 			
 			Set GetUserDoc = viewNames.GetDocumentByKey(username)
